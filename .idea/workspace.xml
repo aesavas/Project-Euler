@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd5af665-9478-4090-9338-8e5eb8092991" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Problem 6/Python/Problem 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 6/Python/Problem 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 7/Python/Problem 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 7/Python/Problem 7.py" afterDir="false" />
-    </list>
+    <list default="true" id="bd5af665-9478-4090-9338-8e5eb8092991" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,45 +16,55 @@
     <session id="-1652889384">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2846" />
+          <entry key="py" value="3255" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2846" />
+          <entry key="Python" value="3255" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 8/Python/Problem 8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="54" column="56" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="56" />
+            <state relative-caret-position="568">
+              <caret line="54" column="56" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem 9/Python/Problem 9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -85,6 +92,7 @@
         <option value="$PROJECT_DIR$/Problem 7/Python/Problem 7.py" />
         <option value="$PROJECT_DIR$/Problem 6/Python/Problem 6.py" />
         <option value="$PROJECT_DIR$/Problem 8/Python/Problem 8.py" />
+        <option value="$PROJECT_DIR$/Problem 9/Python/Problem 9.py" />
       </list>
     </option>
   </component>
@@ -129,6 +137,11 @@
               <item name="Project Euler" type="462c0819:PsiDirectoryNode" />
               <item name="Problem 8" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Project Euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project Euler" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem 9" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -152,28 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem 8">
-    <configuration name="Problem 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project Euler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 4/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 4/Python/Problem 4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Problem 9">
     <configuration name="Problem 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,20 +250,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Problem 9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 9/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 9/Python/Problem 9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Problem 4" />
       <item itemvalue="Python.Problem 5" />
       <item itemvalue="Python.Problem 6" />
       <item itemvalue="Python.Problem 7" />
       <item itemvalue="Python.Problem 8" />
+      <item itemvalue="Python.Problem 9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem 9" />
         <item itemvalue="Python.Problem 8" />
         <item itemvalue="Python.Problem 7" />
         <item itemvalue="Python.Problem 6" />
         <item itemvalue="Python.Problem 5" />
-        <item itemvalue="Python.Problem 4" />
       </list>
     </recent_temporary>
   </component>
@@ -370,16 +383,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding>
-            <marker date="1561972555552" expanded="true" signature="200:205" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 8/Python/Problem 8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="54" column="56" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="56" />
+        <state relative-caret-position="568">
+          <caret line="54" column="56" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 9/Python/Problem 9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
         </state>
       </provider>
     </entry>

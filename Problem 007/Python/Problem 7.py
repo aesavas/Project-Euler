@@ -15,7 +15,7 @@ def isPrimeNumber(number):
 
 counter = 1
 number = 2
-while(counter != 10002):
+while(counter != 10001):
     if isPrimeNumber(number):
         counter += 1
         number += 1

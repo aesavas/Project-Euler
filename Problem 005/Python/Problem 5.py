@@ -30,7 +30,7 @@ def divible1to20():
             break
     for i in factorList:
         LSD *= i
-    print("{} is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20".format(GSD))
+    print("{} is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20".format(LSD))
 
 "MAIN :"
 divible1to20()

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd5af665-9478-4090-9338-8e5eb8092991" name="Default Changelist" comment="" />
+    <list default="true" id="bd5af665-9478-4090-9338-8e5eb8092991" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,41 +18,41 @@
     <session id="-1652889384">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="31" />
+          <entry key="py" value="33" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="31" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8071" />
+          <entry key="py" value="8094" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="8071" />
+          <entry key="Python" value="8094" />
         </counts>
       </usages-collector>
     </session>
@@ -58,19 +60,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem 022/Python/Problem 22.py">
+        <entry file="file://$PROJECT_DIR$/Problem 021/Python/Problem 21.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="10" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem 024/Python/Problem 24.py">
+        <entry file="file://$PROJECT_DIR$/Problem 021/Python/Problem 21(Faster way).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="170">
+              <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -120,9 +122,10 @@
         <option value="$PROJECT_DIR$/Problem 018/Python/Problem 18.py" />
         <option value="$PROJECT_DIR$/Problem 020/Python/Problem 20.py" />
         <option value="$PROJECT_DIR$/Problem 21/Python/Problem 21.py" />
-        <option value="$PROJECT_DIR$/Problem 021/Python/Problem 21.py" />
         <option value="$PROJECT_DIR$/Problem 022/Python/Problem 22.py" />
         <option value="$PROJECT_DIR$/Problem 024/Python/Problem 24.py" />
+        <option value="$PROJECT_DIR$/Problem 021/Python/Problem 21.py" />
+        <option value="$PROJECT_DIR$/Problem 021/Python/Problem 21(Faster way).py" />
       </list>
     </option>
   </component>
@@ -138,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,12 +151,19 @@
             <path>
               <item name="Project Euler" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project Euler" type="462c0819:PsiDirectoryNode" />
-              <item name="Problem 024" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem 021" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project Euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project Euler" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem 021" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -179,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem 24">
+  <component name="RunManager" selected="Python.Problem 21 (1)">
     <configuration name="Problem 20" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,9 +303,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem 21 (1)" />
         <item itemvalue="Python.Problem 24" />
         <item itemvalue="Python.Problem 22" />
-        <item itemvalue="Python.Problem 21 (1)" />
         <item itemvalue="Python.Problem 21" />
         <item itemvalue="Python.Problem 20" />
       </list>
@@ -319,7 +328,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22991072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22991072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -329,7 +338,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49925596" visible="true" weight="0.5080645" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.5080645" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,10 +486,10 @@
     <entry file="file://$PROJECT_DIR$/Problem 016/Python/Problem 16.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem 021/Python/Problem 21.py">
+    <entry file="file://$PROJECT_DIR$/Problem 024/Python/Problem 24.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        <state relative-caret-position="391">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -491,10 +500,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem 024/Python/Problem 24.py">
+    <entry file="file://$PROJECT_DIR$/Problem 021/Python/Problem 21.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 021/Python/Problem 21(Faster way).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
         </state>
       </provider>
     </entry>
